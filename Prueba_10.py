@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 #import random
 
-#******Expresión para realizar una lista con bucles FOR en una sola linea*****
+#******Expresión para realizar una lista con bucles FOR en una sola linea*******
 #matriz = [[random.uniform(0,1) for i in range(n)] for j in range(n)]
 
 
@@ -34,8 +34,3 @@ def estimar_pi(n):
 
 
 estimar_pi(9000)
-
-
-"""for i in range(n):
-    print(matriz[i][0])
-    print(matriz[i][1])"""
